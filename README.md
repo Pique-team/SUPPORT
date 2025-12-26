@@ -77,7 +77,7 @@ Violations may result in account suspension or termination.
 
 ## Privacy
 
-Read our full [Privacy Policy](PRIVACY_POLICY.md) to understand how we handle your data.
+Read our full [Privacy Policy](https://github.com/Pique-team/privacy-policy) to understand how we handle your data.
 
 ---
 
